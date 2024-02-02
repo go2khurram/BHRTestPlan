@@ -1,0 +1,23 @@
+[
+    {
+      "firstName": "David",
+      "lastName": "Brown",
+      "email": "david@email.com",
+      "phone": "01612222222",
+      "startYear": "2023",
+      "startMonth": "December",
+      "startDay": "15",
+      "jobTitle": "Accountant"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@email.com",
+      "phone": "0123456789",
+      "startYear": "2023",
+      "startMonth": "December",
+      "startDay": "20",
+      "jobTitle": "Developer"
+    }
+  ]
+  
